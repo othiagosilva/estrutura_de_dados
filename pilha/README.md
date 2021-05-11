@@ -13,7 +13,7 @@ Utilizando a classe que implementa a pilha desenvolva:
 
 5.Método que retorne apenas os valores ímpares armazenados em uma pilha.
 
-Altere a classe para que ela armazene valores do tipo caractere ao invés de inteiro e desenvolva:
+## Altere a classe para que ela armazene valores do tipo caractere ao invés de inteiro e desenvolva:
 
 6.Método que verifique se uma palavra é um palíndromo.
 
