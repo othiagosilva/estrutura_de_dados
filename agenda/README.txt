@@ -1,6 +1,6 @@
 Meu primeiro programa durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
-O objetivo alcançado foi a criação de uma agenda que conseguisse armazenar 1000 aniversariantes em uma agenda. 
+O objetivo alcançado foi a criação de uma agenda que conseguisse armazenar 1000 aniversariantes. 
 A aplicação também permite realizar as operações:
 
 1- Cadastrar pessoa na agenda de aniversariantes (nome, e-mail, dia, mês e ano de nascimento)
