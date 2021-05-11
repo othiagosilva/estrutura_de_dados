@@ -1,4 +1,4 @@
-Meu segundo programa durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas.
+# 2º Código escrito durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 O objetivo alcançado foi a criação de uma calculadora que recebe dois números e realiza uma das quatro operações básicas. Os critérios foram: 
 
