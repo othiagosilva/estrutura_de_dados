@@ -18,8 +18,8 @@ fila, o programa deve verificar se há papel suficiente na impressora para
 realizar a impressão. Se não houver papel suficiente, o programa não deve 
 aceitar a impressão. Desenvolva métodos que:
 
-  a.	Permita inserir um arquivo na fila de impressão (retornar falso caso não haja papel); FEITO
-  b.	Remova um arquivo da fila da impressão (imprimir); FEITO
-  c.	Liste os arquivos da fila de impressão; FEITO
-  d.	Permita inserir mais folhas na impressora; FEITO
-  e.	Retorne o total de folhas disponíveis na impressora FEITO
+  1.	Permita inserir um arquivo na fila de impressão (retornar falso caso não haja papel);
+  2.	Remova um arquivo da fila da impressão (imprimir);
+  3.	Liste os arquivos da fila de impressão;
+  4.	Permita inserir mais folhas na impressora;
+  5.	Retorne o total de folhas disponíveis na impressora
